@@ -1,10 +1,10 @@
-# Hi, I'm Ngoc Anh! <img src=https://v-phinf.pstatic.net/20210624_120/1624543376917y56It_GIF/peachcat-cute.gif alt="..." width="100" />
+# Hi, I'm Ngoc Anh!
 \
 I'm a student at Ho Chi Minh University of Science.\
 My major is Computer Networks and Telecommunications. \
 Some pieces of information about me are shown on my website.
  
-<img src=https://media3.giphy.com/media/dWBouHquCqkwNZ4zxv/200w.gif width="50"> [Home | Pham Ngoc Anh](https://phamngocanh2711.wixsite.com/anh127)
+[Home | Pham Ngoc Anh](https://phamngocanh2711.wixsite.com/anh127)
 
 
 ## Find me around the web 🌱
